@@ -107,7 +107,7 @@ All translation rights belong to the community and can be freely used under the 
 
 If you find an inaccuracy, typo, or error in the translation, please create an issue on GitHub:
 
-https://github.com/mxmSx/marktext_ru/issues/new
+https://github.com/devZu9/marktext_ru/issues/new
 
 ## Translation status
 
