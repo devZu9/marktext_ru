@@ -1,0 +1,20 @@
+[package]
+name = "marktext-ru-patcher"
+version = "1.0.0"
+edition = "2021"
+description = "Russian language patcher for MarkText editor"
+
+[lib]
+name = "marktext_ru_patcher"
+path = "src/lib.rs"
+
+[dependencies]
+serde_json = "1"
+
+[[bin]]
+name = "patch_ru_marktext"
+path = "src/patch.rs"
+
+[[bin]]
+name = "rollback_marktext"
+path = "src/rollback.rs"

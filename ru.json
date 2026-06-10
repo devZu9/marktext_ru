@@ -1,0 +1,1398 @@
+{
+  "menu": {
+    "counter": {
+      "words": "Слов",
+      "characters": "Символов",
+      "paragraphs": "Абзацев"
+    },
+    "file": {
+      "file": "Файл",
+      "new": "Создать",
+      "newTab": "Новая вкладка",
+      "newWindow": "Новое окно",
+      "open": "Открыть",
+      "openFile": "Открыть файл...",
+      "openFolder": "Открыть папку...",
+      "openRecent": "Недавние",
+      "clearRecentlyUsed": "Очистить недавние",
+      "save": "Сохранить",
+      "saveAs": "Сохранить как...",
+      "autoSave": "Автосохранение",
+      "moveTo": "Переместить",
+      "rename": "Переименовать",
+      "export": "Экспорт",
+      "exportHtml": "Экспорт в HTML",
+      "exportPdf": "Экспорт в PDF",
+      "import": "Импорт",
+      "print": "Печать",
+      "recent": "Недавние файлы",
+      "close": "Закрыть",
+      "closeAll": "Закрыть всё",
+      "closeTab": "Закрыть вкладку",
+      "closeWindow": "Закрыть окно",
+      "quit": "Выйти",
+      "preferences": "Настройки"
+    },
+    "edit": {
+      "edit": "Правка",
+      "undo": "Отменить",
+      "redo": "Повторить",
+      "cut": "Вырезать",
+      "copy": "Копировать",
+      "paste": "Вставить",
+      "copyAsRich": "Копировать как RTF",
+      "copyAsHtml": "Копировать как HTML",
+      "pasteAsPlainText": "Вставить как текст",
+      "selectAll": "Выделить всё",
+      "duplicate": "Дублировать",
+      "createParagraph": "Создать абзац",
+      "deleteParagraph": "Удалить абзац",
+      "find": "Найти",
+      "replace": "Заменить",
+      "findNext": "Найти далее",
+      "findPrevious": "Найти ранее",
+      "findInFolder": "Искать в папке",
+      "screenshot": "Скриншот",
+      "lineEnding": "Концы строк",
+      "lineEndingCrlf": "CRLF (Windows)",
+      "lineEndingLf": "LF (Linux/Mac)"
+    },
+    "paragraph": {
+      "title": "Абзац",
+      "paragraph": "Абзац",
+      "heading1": "Заголовок 1",
+      "heading2": "Заголовок 2",
+      "heading3": "Заголовок 3",
+      "heading4": "Заголовок 4",
+      "heading5": "Заголовок 5",
+      "heading6": "Заголовок 6",
+      "promoteHeading": "Повысить заголовок",
+      "demoteHeading": "Понизить заголовок",
+      "table": "Таблица",
+      "codeFences": "Блок кода",
+      "codeBlock": "Блок кода",
+      "quoteBlock": "Цитата",
+      "mathBlock": "Математическая формула",
+      "htmlBlock": "HTML-блок",
+      "quote": "Цитата",
+      "orderedList": "Нумерованный список",
+      "bulletList": "Маркированный список",
+      "unorderedList": "Маркированный список",
+      "taskList": "Список задач",
+      "looseListItem": "Разрежённый элемент списка",
+      "paragraphItem": "Элемент абзаца",
+      "horizontalRule": "Горизонтальная черта",
+      "frontMatter": "Front Matter"
+    },
+    "window": {
+      "title": "Окно",
+      "window": "Окно",
+      "minimize": "Свернуть",
+      "close": "Закрыть",
+      "zoom": "Масштаб",
+      "zoomIn": "Увеличить",
+      "zoomOut": "Уменьшить",
+      "fullScreen": "Полный экран",
+      "bringAllToFront": "На передний план",
+      "alwaysOnTop": "Поверх всех окон"
+    },
+    "help": {
+      "help": "Справка",
+      "markdownReference": "Справка по Markdown",
+      "changelog": "Список изменений",
+      "askQuestion": "Задать вопрос",
+      "reportBug": "Сообщить об ошибке",
+      "viewSource": "Исходный код",
+      "followUs": "Мы в соцсетях",
+      "support": "Поддержать MarkText",
+      "license": "Лицензия",
+      "checkForUpdates": "Проверить обновления",
+      "aboutMarkText": "О MarkText",
+      "about": "О программе",
+      "checkUpdates": "Проверить обновления..."
+    },
+    "marktext": {
+      "title": "MarkText",
+      "marktext": "MarkText",
+      "about": "О MarkText",
+      "checkUpdates": "Проверить обновления...",
+      "preferences": "Настройки",
+      "services": "Службы",
+      "hide": "Скрыть MarkText",
+      "hideMarkText": "Скрыть MarkText",
+      "hideOthers": "Скрыть остальные",
+      "showAll": "Показать все",
+      "quit": "Выйти из MarkText"
+    },
+    "view": {
+      "view": "Вид",
+      "toggleSidebar": "Показать/скрыть боковую панель",
+      "toggleTabbar": "Показать/скрыть панель вкладок",
+      "commandPalette": "Палитра команд",
+      "sourceCode": "Режим исходного кода",
+      "sourceCodeMode": "Режим исходного кода",
+      "typewriter": "Режим пишущей машинки",
+      "typewriterMode": "Режим пишущей машинки",
+      "focus": "Режим фокусировки",
+      "focusMode": "Режим фокусировки",
+      "showTabBar": "Показать панель вкладок",
+      "toc": "Содержание",
+      "toggleTableOfContents": "Показать/скрыть содержание",
+      "reloadImages": "Перезагрузить изображения",
+      "showDeveloperTools": "Инструменты разработчика",
+      "reloadWindow": "Перезагрузить окно"
+    },
+    "format": {
+      "format": "Формат",
+      "bold": "Полужирный",
+      "italic": "Курсив",
+      "underline": "Подчёркнутый",
+      "strikethrough": "Зачёркнутый",
+      "code": "Код",
+      "codeBlock": "Блок кода",
+      "quote": "Цитата",
+      "unorderedList": "Маркированный список",
+      "orderedList": "Нумерованный список",
+      "taskList": "Список задач",
+      "table": "Таблица",
+      "link": "Ссылка",
+      "image": "Изображение",
+      "heading1": "Заголовок 1",
+      "heading2": "Заголовок 2",
+      "heading3": "Заголовок 3",
+      "heading4": "Заголовок 4",
+      "heading5": "Заголовок 5",
+      "heading6": "Заголовок 6",
+      "superscript": "Надстрочный",
+      "subscript": "Подстрочный",
+      "highlight": "Выделение",
+      "inlineCode": "Код",
+      "inlineMath": "Формула",
+      "hyperlink": "Гиперссылка",
+      "clearFormatting": "Очистить форматирование",
+      "clearFormat": "Очистить форматирование"
+    },
+    "theme": {
+      "theme": "&Тема",
+      "light": "Светлая",
+      "dark": "Тёмная",
+      "auto": "Авто",
+      "followThemDisabled": "Выбор темы отключён при следовании системной теме",
+      "lightThemes": "— Светлые темы —",
+      "darkThemes": "— Тёмные темы —",
+      "ayuDark": "Ayu Dark",
+      "ayuLight": "Ayu Light",
+      "ayuMirage": "Ayu Mirage",
+      "cadmiumDark": "Cadmium Dark",
+      "cadmiumLight": "Cadmium Light",
+      "catppuccinLatte": "Catppuccin Latte",
+      "catppuccinMocha": "Catppuccin Mocha",
+      "cyberdream": "cyberdream",
+      "dracula": "Dracula",
+      "everforestDark": "Everforest Dark",
+      "everforestLight": "Everforest Light",
+      "graphiteLight": "Graphite Light",
+      "gruvboxDark": "Gruvbox Dark",
+      "gruvboxLight": "Gruvbox Light",
+      "horizonDark": "Horizon Dark",
+      "kanagawa": "Kanagawa",
+      "materialDark": "Material Dark",
+      "monokaiPro": "Monokai Pro",
+      "nightfox": "Nightfox",
+      "nord": "Nord",
+      "oneDark": "One Dark",
+      "oxocarbonDark": "Oxocarbon Dark",
+      "palenight": "Palenight",
+      "rosePine": "Rosé Pine",
+      "rosePineDawn": "Rosé Pine Dawn",
+      "rosePineMoon": "Rosé Pine Moon",
+      "solarizedDark": "Solarized Dark",
+      "solarizedLight": "Solarized Light",
+      "synthwave84": "Synthwave '84",
+      "tokyoNight": "Tokyo Night",
+      "tokyoNightLight": "Tokyo Night Light",
+      "tokyoNightStorm": "Tokyo Night Storm",
+      "ulyssesLight": "Ulysses Light"
+    }
+  },
+  "contextMenu": {
+    "cut": "Вырезать",
+    "copy": "Копировать",
+    "paste": "Вставить",
+    "copyAsRich": "Копировать как RTF",
+    "copyAsHtml": "Копировать как HTML",
+    "pasteAsPlainText": "Вставить как текст",
+    "insertParagraphBefore": "Вставить абзац перед",
+    "insertParagraphAfter": "Вставить абзац после",
+    "spelling": "Орфография...",
+    "changeLanguage": "Сменить язык...",
+    "addToDictionary": "Добавить в словарь",
+    "editDictionary": "Изменить словарь...",
+    "sideBar": {
+      "newFile": "Новый файл",
+      "newDirectory": "Новая папка",
+      "copy": "Копировать",
+      "cut": "Вырезать",
+      "paste": "Вставить",
+      "rename": "Переименовать",
+      "moveToTrash": "Переместить в корзину",
+      "showInFolder": "Показать в папке"
+    },
+    "tabs": {
+      "close": "Закрыть",
+      "closeOthers": "Закрыть остальные",
+      "closeSavedTabs": "Закрыть сохранённые",
+      "closeAllTabs": "Закрыть все",
+      "rename": "Переименовать",
+      "copyPath": "Копировать путь",
+      "showInFolder": "Показать в папке"
+    }
+  },
+  "search": {
+    "searchPlaceholder": "Поиск",
+    "caseSensitive": "Учитывать регистр",
+    "wholeWord": "Только целые слова",
+    "useRegex": "Использовать RegExp",
+    "replacementPlaceholder": "Замена",
+    "replaceAll": "Заменить все",
+    "replaceSingle": "Заменить",
+    "invalidRegex": "Некорректное регулярное выражение \"{pattern}\"",
+    "regexMatchEmpty": "Регулярное выражение соответствует пустой строке \"{pattern}\"",
+    "searchResultInfo": "{matchCount} совпадений в {fileCount} файлах",
+    "searchLimited": "Поиск ограничен первыми {count} результатами"
+  },
+  "sideBar": {
+    "search": {
+      "searchInFolder": "Искать в папке...",
+      "noFolderOpen": "Папка не открыта",
+      "noResultsFound": "Ничего не найдено.",
+      "cancel": "Отмена",
+      "openFolder": "Открыть папку",
+      "showMoreMatches": "Показать больше"
+    },
+    "tree": {
+      "openedFiles": "Открытые файлы",
+      "saveAll": "Сохранить всё",
+      "closeAll": "Закрыть всё",
+      "emptyProject": "Проект пуст",
+      "createFile": "Создать файл",
+      "openFolder": "Открыть папку"
+    },
+    "toc": {
+      "title": "Содержание"
+    },
+    "icons": {
+      "files": "Файлы",
+      "search": "Поиск",
+      "toc": "Содержание",
+      "settings": "Настройки"
+    }
+  },
+  "commandPalette": {
+    "placeholder": "Введите команду",
+    "placeholders": {
+      "selectOption": "Выберите опцию",
+      "searchFileToOpen": "Найти файл для открытия",
+      "selectLanguage": "Выберите язык"
+    }
+  },
+  "exportSettings": {
+    "autoNumberingHeadings": "Автонумерация заголовков",
+    "title": "Параметры экспорта",
+    "info": {
+      "label": "Инфо",
+      "description": "Настройте внешний вид страницы и нажмите «Экспорт» для продолжения."
+    },
+    "page": {
+      "label": "Страница",
+      "pageTitle": "Заголовок страницы:",
+      "pageSize": "Размер страницы:",
+      "landscapeOrientation": "Альбомная ориентация:",
+      "pageMargin": "Поля в мм:",
+      "topBottom": "Сверху/Снизу:",
+      "leftRight": "Слева/Справа:",
+      "widthHeight": "Ширина/Высота в мм:"
+    },
+    "showFrontMatter": "Показывать Front Matter",
+    "style": {
+      "label": "Стиль",
+      "overwriteThemeFont": "Переопределить шрифт темы",
+      "fontFamily": "Гарнитура:",
+      "fontSize": "Размер шрифта",
+      "lineHeight": "Межстрочный интервал"
+    },
+    "theme": {
+      "label": "Тема",
+      "description": "Вы можете изменить внешний вид документа, выбрав тему или создав свою.",
+      "theme": "Тема"
+    },
+    "headerFooter": {
+      "allowStyled": "Разрешить стилизацию",
+      "customizeStyle": "Настроить стиль",
+      "fontSize": "Размер шрифта",
+      "footerType": "Тип нижнего колонтитула",
+      "headerType": "Тип верхнего колонтитула",
+      "label": "Колонтитулы",
+      "leftFooterText": "Текст слева внизу",
+      "leftHeaderText": "Текст слева вверху",
+      "mainFooterText": "Текст по центру внизу",
+      "mainHeaderText": "Текст по центру вверху",
+      "rightFooterText": "Текст справа внизу",
+      "rightHeaderText": "Текст справа вверху",
+      "description": "Текст будет отображаться на всех страницах, если определён хотя бы один колонтитул."
+    },
+    "toc": {
+      "includeTopHeading": "Включить верхний заголовок",
+      "includeTopHeadingDetail": "Детали верхнего заголовка",
+      "label": "Содержание",
+      "title": "Содержание"
+    },
+    "export": "Экспорт...",
+    "options": {
+      "pageSizes": {
+        "a3": "A3 (297мм x 420мм)",
+        "a4": "A4 (210мм x 297мм)",
+        "a5": "A5 (148мм x 210мм)",
+        "legal": "US Legal (8,5\" x 13\")",
+        "letter": "US Letter (8,5\" x 11\")",
+        "tabloid": "Tabloid (17\" x 11\")",
+        "custom": "Произвольный"
+      },
+      "headerFooterTypes": {
+        "none": "Нет",
+        "singleCell": "Одна ячейка",
+        "threeCells": "Три ячейки"
+      },
+      "headerFooterStyles": {
+        "default": "Обычный",
+        "simple": "Простой",
+        "styled": "Стилизованный"
+      },
+      "themes": {
+        "academic": "Academic",
+        "default": "GitHub (по умолчанию)",
+        "liber": "Liber"
+      }
+    }
+  },
+  "table": {
+    "resizeTable": "Изменить размер таблицы",
+    "alignLeft": "Выровнять влево",
+    "alignCenter": "Выровнять по центру",
+    "alignRight": "Выровнять вправо",
+    "deleteTable": "Удалить таблицу"
+  },
+  "recent": {
+    "noTabsOpen": "Нет открытых вкладок.",
+    "newFile": "Новый файл"
+  },
+  "import": {
+    "title": "Импорт или открытие",
+    "description": "Перетащите файлы в MarkText"
+  },
+  "preferences": {
+    "title": "Настройки",
+    "search": {
+      "placeholder": "Поиск в настройках...",
+      "optionalValues": "дополнительные значения",
+      "categories": {
+        "general": "Общие",
+        "editor": "Редактор",
+        "markdown": "Markdown",
+        "theme": "Тема",
+        "image": "Изображение",
+        "view": "Вид",
+        "searcher": "Поиск",
+        "watcher": "Наблюдатель",
+        "spelling": "Орфография",
+        "custom css": "Пользовательский CSS"
+      },
+      "items": {
+        "autoSave": "Автоматически сохранять редактируемый контент",
+        "autoSaveDelay": "Время в мс после изменения, через которое файл сохраняется",
+        "titleBarStyle": "Стиль строки заголовка (только Windows и Linux)",
+        "openFilesInNewWindow": "Открывать файлы в новом окне",
+        "openFolderInNewWindow": "Открывать папку через меню в новом окне",
+        "zoom": "Уровень масштабирования. От 0.5 до 2.0",
+        "hideScrollbar": "Скрывать полосы прокрутки",
+        "wordWrapInToc": "Переносить слова в содержании",
+        "fileSortBy": "Сортировать файлы по дате создания, изменения или названию",
+        "startUpAction": "Действие после запуска: открыть последнее, указанную папку или пустую страницу",
+        "restoreLayoutState": "Восстанавливать предыдущее состояние редактора при запуске",
+        "defaultDirectoryToOpen": "Папка, открываемая по умолчанию при startUp=folder",
+        "language": "Язык интерфейса MarkText",
+        "editorFontFamily": "Гарнитура шрифта редактора",
+        "fontSize": "Размер шрифта в пикселях",
+        "lineHeight": "Межстрочный интервал",
+        "wrapCodeBlocks": "Переносить текст внутри блоков кода",
+        "editorLineWidth": "Максимальная ширина редактора. Пустая строка, ch (символы), px (пиксели) или % (проценты)",
+        "codeFontSize": "Размер шрифта в блоке кода, от 12 до 18",
+        "codeFontFamily": "Гарнитура шрифта в блоке кода",
+        "codeBlockLineNumbers": "Показывать номера строк",
+        "trimUnnecessaryCodeBlockEmptyLines": "Обрезать лишние пустые строки в блоке кода",
+        "autoPairBracket": "Автоматически закрывать скобки",
+        "autoPairMarkdownSyntax": "Автодополнение синтаксиса Markdown",
+        "autoPairQuote": "Автоматически закрывать кавычки",
+        "endOfLine": "Символ конца строки. По умолчанию — системный",
+        "defaultEncoding": "Кодировка файлов по умолчанию",
+        "autoGuessEncoding": "Автоопределение кодировки при открытии",
+        "trimTrailingNewline": "Удалять завершающие пробелы",
+        "textDirection": "Направление текста",
+        "hideQuickInsertHint": "Скрыть подсказку быстрой вставки",
+        "hideLinkPopup": "Скрывать всплывающую подсказку ссылки",
+        "autoCheck": "Автоматически проверять связанные задачи",
+        "preferLooseListItem": "Предпочитать разрежённые элементы списка",
+        "bulletListMarker": "Маркер маркированного списка",
+        "orderListDelimiter": "Разделитель нумерованного списка",
+        "preferHeadingStyle": "Предпочитаемый стиль заголовков",
+        "tabSize": "Заменять табуляцию на X пробелов",
+        "listIndentation": "Отступ списка",
+        "frontmatterType": "Тип Front Matter",
+        "superSubScript": "Включить надстрочные и подстрочные индексы Pandoc",
+        "footnote": "Включить сноски Pandoc",
+        "isHtmlEnabled": "Включить рендеринг HTML",
+        "isGitlabCompatibilityEnabled": "Включить совместимость с GitLab",
+        "sequenceTheme": "Тема диаграммы последовательности",
+        "theme": "Выберите тему MarkText",
+        "followSystemTheme": "Следовать системной теме",
+        "lightModeTheme": "Тема для светлого режима",
+        "darkModeTheme": "Тема для тёмного режима",
+        "customCss": "Пользовательский CSS для текущей темы",
+        "spellcheckerEnabled": "Включить проверку орфографии",
+        "spellcheckerNoUnderline": "Не подчёркивать ошибки",
+        "spellcheckerLanguage": "Язык проверки орфографии",
+        "imageInsertAction": "Действие после вставки изображения из локальной папки",
+        "imagePreferRelativeDirectory": "Предпочитать относительный путь для изображений",
+        "imageRelativeDirectoryBase": "Куда копировать относительные изображения",
+        "imageRelativeDirectoryName": "Имя папки для относительных изображений",
+        "sideBarVisibility": "Видимость боковой панели",
+        "tabBarVisibility": "Показывать вкладки",
+        "sourceCodeModeEnabled": "Режим исходного кода по умолчанию",
+        "searchExclusions": "Список glob-шаблонов для исключения из поиска",
+        "searchMaxFileSize": "Максимальный размер файла (<максРазмер><суффикс>). Суффиксы K, M или G, без суффикса — байты",
+        "searchIncludeHidden": "Искать в скрытых файлах и папках",
+        "searchNoIgnore": "Игнорировать ignore-файлы (.gitignore и т.д.)",
+        "searchFollowSymlinks": "Следовать по символьным ссылкам",
+        "watcherUsePolling": "Использовать опрос. Может вызвать высокую нагрузку на ЦП, но необходим для отслеживания файлов по сети"
+      }
+    },
+    "categories": {
+      "general": "Общие",
+      "editor": "Редактор",
+      "markdown": "Markdown",
+      "spelling": "Орфография",
+      "theme": "Тема",
+      "image": "Изображение",
+      "keybindings": "Горячие клавиши"
+    },
+    "general": {
+      "title": "Общие",
+      "autoSave": {
+        "title": "Автосохранение",
+        "description": "Автосохранение",
+        "delayDescription": "Задержка автосохранения"
+      },
+      "window": {
+        "title": "Окно",
+        "titleBarStyle": {
+          "title": "Стиль строки заголовка",
+          "custom": "Пользовательский",
+          "titleBarStyle": "Стиль строки заголовка",
+          "native": "Системный"
+        },
+        "requiresRestart": "Требуется перезапуск",
+        "hideScrollbars": "Скрывать полосы прокрутки",
+        "openFilesInNewWindow": "Открывать файлы в новом окне",
+        "openFoldersInNewWindow": "Открывать папки в новом окне",
+        "zoom": "Масштаб"
+      },
+      "startup": {
+        "title": "Параметры запуска",
+        "layoutOptions": "Параметры макета",
+        "startupFilesFolders": "Файлы/папки при запуске",
+        "restorePreviousState": "Восстановить предыдущее состояние редактора",
+        "openBlankState": "Открыть пустой редактор",
+        "openDefaultDirectory": "Открыть папку по умолчанию",
+        "openLastFolder": "Восстановить открытую папку",
+        "restoreAll": "Восстановить все открытые файлы и папки",
+        "selectFolder": "Выбрать папку",
+        "openBlankPage": "Открыть пустую страницу"
+      },
+      "sidebar": {
+        "title": "Боковая панель",
+        "wrapTextInToc": "Переносить текст в содержании",
+        "showOpenedFiles": "Показывать открытые файлы",
+        "excludePatterns": "Шаблоны исключений",
+        "excludePatternsNotes": "Шаблоны исключений (примечания)",
+        "fileSortBy": {
+          "title": "Сортировка",
+          "creationTime": "Время создания",
+          "modificationTime": "Время изменения",
+          "filename": "Имя файла"
+        },
+        "fileSortOrder": {
+          "title": "Порядок",
+          "aToZ": "А → Я",
+          "zToA": "Я → А",
+          "oldestFirst": "Сначала старые",
+          "newestFirst": "Сначала новые"
+        }
+      },
+      "misc": {
+        "title": "Прочее",
+        "language": {
+          "title": "Язык",
+          "english": "English",
+          "chinese": "简体中文",
+          "traditionalChinese": "繁體中文",
+          "spanish": "Español",
+          "french": "Français",
+          "german": "Deutsch",
+          "japanese": "日本語",
+          "korean": "한국어",
+          "portuguese": "Português",
+          "russian": "Русский"
+        }
+      }
+    },
+    "editor": {
+      "title": "Редактор",
+      "textEditor": {
+        "title": "Текстовый редактор",
+        "fontSize": "Размер шрифта",
+        "lineHeight": "Межстрочный интервал",
+        "fontFamily": "Гарнитура",
+        "maxWidth": "Макс. ширина",
+        "maxWidthNotes": "Максимальная ширина содержимого редактора"
+      },
+      "codeBlock": {
+        "title": "Блок кода",
+        "fontSize": "Размер шрифта",
+        "fontFamily": "Гарнитура",
+        "showLineNumbers": "Показывать номера строк",
+        "removeEmptyLines": "Удалять пустые строки"
+      },
+      "writingBehavior": {
+        "title": "Поведение при вводе",
+        "autoCloseBrackets": "Автозакрытие скобок",
+        "autoCompleteMarkdown": "Автодополнение Markdown",
+        "autoCloseQuotes": "Автозакрытие кавычек"
+      },
+      "fileRepresentation": {
+        "title": "Представление файлов",
+        "tabWidth": "Ширина табуляции",
+        "lineSeparator": "Разделитель строк",
+        "defaultEncoding": "Кодировка по умолчанию",
+        "autoDetectEncoding": "Автоопределение кодировки",
+        "trailingNewlines": {
+          "title": "Концевые переводы строк",
+          "doNothing": "Не трогать",
+          "ensureOne": "Гарантировать один",
+          "preserve": "Сохранять",
+          "trimAll": "Удалить все"
+        },
+        "endOfLine": {
+          "default": "По умолчанию",
+          "crlf": "CRLF (Windows)",
+          "lf": "LF (Linux/Mac)"
+        }
+      },
+      "misc": {
+        "title": "Прочее",
+        "textDirection": {
+          "title": "Направление текста",
+          "ltr": "Слева направо",
+          "rtl": "Справа налево"
+        },
+        "hideQuickInsertHint": "Скрыть подсказку быстрой вставки",
+        "hideLinkPopup": "Скрывать всплывающую подсказку ссылки",
+        "autoCheck": "Автопроверка",
+        "autoNormalizeLineEndings": "Автонормализация концов строк при открытии",
+        "wrapCodeBlocks": "Переносить блоки кода"
+      }
+    },
+    "image": {
+      "title": "Изображение",
+      "actions": {
+        "upload": "Загрузить в облако",
+        "folder": "Копировать в папку",
+        "path": "Использовать абсолютный путь"
+      },
+      "folderSetting": {
+        "title": "Настройки папки",
+        "globalFolder": "Глобальная папка изображений",
+        "open": "Открыть",
+        "showInFolder": "Показать в папке",
+        "preferRelative": "Предпочитать относительный путь",
+        "relativeCopyLocation": "Копировать изображение относительно",
+        "copyRelativeToFile": "Относительно файла",
+        "copyRelativeToFolder": "Относительно папки",
+        "relativeFolderName": "Имя относительной папки",
+        "filenameNote": "Имя файла будет сгенерировано автоматически."
+      },
+      "imageInsertAction": {
+        "title": "Действие при вставке",
+        "folder": "Загрузить в папку",
+        "path": "Копировать по пути",
+        "upload": "Загрузить в облако",
+        "copyToFolder": "Копировать в папку",
+        "uploadToServer": "Загрузить на сервер"
+      },
+      "imageFolderPath": {
+        "title": "Путь к папке изображений",
+        "description": "Путь к папке изображений",
+        "selectFolder": "Выбрать папку",
+        "relativePath": "Относительный путь",
+        "absolutePath": "Абсолютный путь"
+      },
+      "cloudPictureBed": {
+        "title": "Облачное хранилище",
+        "github": "GitHub",
+        "smms": "SM.MS",
+        "qiniu": "Qiniu",
+        "upyun": "UpYun",
+        "tcyun": "Tencent Cloud",
+        "aliyun": "Alibaba Cloud",
+        "imgur": "Imgur",
+        "picgo": "PicGo"
+      },
+      "preferRelativeDirectory": {
+        "title": "Предпочитать относительный путь",
+        "description": "Предпочитать относительный путь для изображений"
+      },
+      "uploader": {
+        "title": "Загрузчик изображений",
+        "currentUploader": "Текущий загрузчик: {name}",
+        "picgoNotInstalled": "PicGo не установлен",
+        "picgoDetectionStatus": "Статус обнаружения PicGo",
+        "picgoInstalled": "PicGo установлен",
+        "picgoDetectionFailed": "Обнаружение PicGo не удалось",
+        "debugInfo": "Отладочная информация",
+        "installCommand": "Команда установки",
+        "npmInstallCommand": "npm install picgo -g",
+        "yarnInstallCommand": "yarn global add picgo",
+        "pnpmInstallCommand": "pnpm add -g picgo",
+        "chooseInstallMethod": "Выберите способ установки:",
+        "retestPicgo": "Проверить снова",
+        "detecting": "Проверка...",
+        "lastDetectionTime": "Время последней проверки",
+        "detectionStatus": "Статус проверки",
+        "picgoDetection": "Проверка PicGo",
+        "usageGuide": {
+          "title": "Основные команды PicGo",
+          "step1": "Настройка загрузчика",
+          "step1Description": "Используйте следующую команду для настройки загрузчика PicGo:",
+          "step2": "Загрузка изображений",
+          "step2Description": "Используйте следующую команду для загрузки изображений:",
+          "step3": "Просмотр конфигурации",
+          "step3Description": "Используйте следующую команду для просмотра текущей конфигурации:",
+          "documentation": "Полная документация"
+        },
+        "autoDetection": "Автоопределение",
+        "lastSuccessTime": "Время последнего успеха",
+        "neverDetected": "Не проверялось",
+        "neverSuccessful": "Не было успешных проверок",
+        "configureUploader": "Настройка загрузчика",
+        "configureDescription": "Используйте следующую команду для настройки загрузчика PicGo:",
+        "uploadImage": "Загрузка изображений",
+        "uploadDescription": "Используйте следующую команду для загрузки изображений:",
+        "viewConfig": "Просмотр конфигурации",
+        "viewConfigDescription": "Используйте следующую команду для просмотра конфигурации:",
+        "viewDocumentation": "Полная документация",
+        "scriptDescription": "Описание скрипта",
+        "scriptLocation": "Расположение скрипта",
+        "save": "Сохранить",
+        "saveConfig": "Сохранить конфигурацию",
+        "scriptConfigSaved": "Конфигурация скрипта сохранена",
+        "services": {
+          "picgo": "PicGo",
+          "cliScript": "CLI-скрипт"
+        },
+        "pleaseInstall": "Пожалуйста, установите",
+        "scriptPath": "Путь к скрипту"
+      },
+      "defaultBehavior": "Действие по умолчанию при вставке или перетаскивании изображения в MarkText"
+    },
+    "markdown": {
+      "title": "Markdown",
+      "listItem": {
+        "title": "Элементы списка",
+        "preferLooseListItem": "Разрежённые элементы списка",
+        "bulletListMarker": "Маркер списка",
+        "orderListDelimiter": "Разделитель нумерованного списка",
+        "listIndentation": {
+          "title": "Отступ списка",
+          "dfm": "Режим форматирования по умолчанию",
+          "tab": "Табуляция",
+          "oneSpace": "Один пробел",
+          "twoSpaces": "Два пробела",
+          "threeSpaces": "Три пробела",
+          "fourSpaces": "Четыре пробела"
+        }
+      },
+      "heading": {
+        "title": "Заголовки",
+        "preferHeadingStyle": "Предпочитаемый стиль заголовков"
+      },
+      "frontmatter": {
+        "title": "Front Matter",
+        "frontmatterType": "Тип Front Matter"
+      },
+      "extensions": {
+        "title": "Расширения",
+        "superSubScript": "Надстрочные/подстрочные индексы",
+        "footnote": "Сноски",
+        "isHtmlEnabled": "Включён HTML",
+        "isGitlabCompatibilityEnabled": "Совместимость с GitLab",
+        "sequenceTheme": "Тема диаграммы последовательности",
+        "superscript": "Надстрочный",
+        "subscript": "Подстрочный",
+        "frontMatter": "Front matter",
+        "math": "Математика",
+        "diagram": "Диаграмма",
+        "footnoteNotes": "Примечания сносок",
+        "frontmatterType": {
+          "frontmatterType": "Тип Frontmatter",
+          "jsonBrace": "JSON с фигурными скобками",
+          "jsonSemicolon": "JSON с точкой с запятой",
+          "title": "Тип Frontmatter"
+        }
+      },
+      "diagrams": {
+        "title": "Диаграммы",
+        "plantuml": "PlantUML",
+        "mermaid": "Mermaid",
+        "vega": "Vega-Lite",
+        "flowchart": "Flowchart",
+        "sequence": "Sequence",
+        "gantt": "Gantt",
+        "sequenceTheme": {
+          "title": "Тема диаграммы последовательности",
+          "handDrawn": "От руки",
+          "simple": "Простая"
+        }
+      },
+      "math": {
+        "title": "Математика",
+        "katex": "KaTeX",
+        "mathJax": "MathJax"
+      },
+      "misc": {
+        "preferHeadingStyle": {
+          "title": "Стиль заголовков",
+          "atx": "ATX",
+          "setext": "Setext"
+        },
+        "title": "Прочее"
+      },
+      "compatibility": {
+        "enableGitlab": "Включить совместимость с GitLab",
+        "enableHtml": "Включить поддержку HTML",
+        "title": "Совместимость"
+      },
+      "lists": {
+        "bulletListMarker": "Маркер маркированного списка",
+        "listIndentation": {
+          "title": "Отступ списка",
+          "dfm": "DFM",
+          "fourSpaces": "Четыре пробела",
+          "oneSpace": "Один пробел",
+          "tab": "Табуляция",
+          "threeSpaces": "Три пробела",
+          "twoSpaces": "Два пробела"
+        },
+        "orderListDelimiter": "Разделитель нумерованного списка",
+        "preferLooseListItem": "Разрежённые элементы списка",
+        "title": "Списки"
+      }
+    },
+    "spelling": {
+      "title": "Орфография",
+      "enabled": "Включить проверку орфографии",
+      "autoDetectLanguage": "Автоопределение языка",
+      "language": "Язык",
+      "noSuggestions": "Нет предложений",
+      "spellcheckerEnabled": "Включить проверку орфографии",
+      "spellcheckerNoUnderline": "Не подчёркивать ошибки",
+      "spellcheckerLanguage": "Язык проверки орфографии"
+    },
+    "theme": {
+      "title": "Тема",
+      "theme": "Тема",
+      "followSystemTheme": "Следовать системной теме",
+      "modeThemes": "Выбор темы",
+      "lightModeTheme": "Тема светлого режима",
+      "darkModeTheme": "Тема тёмного режима",
+      "customCss": "Пользовательский CSS",
+      "codeBlockTheme": {
+        "title": "Тема блоков кода",
+        "description": "Тема для блоков кода"
+      },
+      "importCustomThemes": "Импорт тем",
+      "importTheme": "Импорт темы",
+      "openFolder": "Открыть папку",
+      "openThemesFolder": "Открыть папку тем"
+    },
+    "keybindings": {
+      "title": "Горячие клавиши",
+      "description": "Настройка сочетаний клавиш",
+      "searchPlaceholder": "Поиск сочетаний",
+      "command": "Команда",
+      "keybinding": "Сочетание",
+      "reset": "Сбросить",
+      "resetAll": "Сбросить всё",
+      "edit": "Изменить",
+      "cancel": "Отмена",
+      "save": "Сохранить",
+      "restoreDefaults": "Восстановить по умолчанию",
+      "debugOptions": "Параметры отладки",
+      "dumpKeyboardInfo": "Информация о клавиатуре",
+      "failedToSave": "Не удалось сохранить сочетания клавиш",
+      "keyInputDialog": {
+        "instructions": "Нажмите нужное сочетание клавиш",
+        "invalidKeybinding": "Некорректное сочетание",
+        "placeholder": "Нажмите клавиши..."
+      },
+      "online": "В сети",
+      "saveError": "Ошибка сохранения сочетаний",
+      "shortcutInUse": "Сочетание занято",
+      "shortcutInUseMessage": "Это сочетание уже назначено на {accelerator}",
+      "table": {
+        "description": "Описание",
+        "edit": "Изменить",
+        "keyCombination": "Сочетание клавиш",
+        "options": "Опции",
+        "reset": "Сбросить",
+        "unbind": "Отвязать"
+      }
+    },
+    "selectFont": "Выбрать шрифт",
+    "spellchecker": {
+      "autoDetectDescription": "Автоопределение языка документа",
+      "autoDetectLanguage": "Автоопределение языка",
+      "customDictionary": {
+        "delete": "Удалить",
+        "description": "Добавление слов в личный словарь",
+        "noWordsAvailable": "Нет слов",
+        "options": "Опции",
+        "title": "Пользовательский словарь",
+        "word": "Слово"
+      },
+      "defaultLanguage": "Язык по умолчанию",
+      "enableSpellChecking": "Включить проверку орфографии",
+      "hideMarksForErrors": "Скрывать пометки об ошибках",
+      "title": "Проверка орфографии"
+    }
+  },
+  "edit": {
+    "undo": "Отменить",
+    "redo": "Повторить",
+    "cut": "Вырезать",
+    "copy": "Копировать",
+    "paste": "Вставить",
+    "selectAll": "Выделить всё"
+  },
+  "about": {
+    "copyright": "Copyright © Luo Ran 2017-{year}",
+    "copyrightContributors": "Создано с <3 участниками GitHub"
+  },
+  "commands": {
+    "mt": {
+      "hide": "Скрыть MarkText",
+      "hideOthers": "Скрыть остальные"
+    },
+    "file": {
+      "newWindow": "Новое окно",
+      "newTab": "Новая вкладка",
+      "openFile": "Открыть файл",
+      "openFolder": "Открыть папку",
+      "save": "Сохранить",
+      "saveAs": "Сохранить как",
+      "moveFile": "Переместить файл",
+      "renameFile": "Переименовать файл",
+      "quickOpen": "Быстрое открытие",
+      "changeEncoding": "Изменить кодировку",
+      "changeLineEnding": "Изменить концы строк",
+      "trailingNewline": "Концевой перевод строки",
+      "print": "Печать",
+      "preferences": "Настройки",
+      "closeTab": "Закрыть вкладку",
+      "closeWindow": "Закрыть окно",
+      "quit": "Выйти",
+      "toggleAutoSave": "Вкл/выкл автосохранение",
+      "importFile": "Импорт файла",
+      "exportFile": "Экспорт файла",
+      "exportFilePdf": "Экспорт в PDF",
+      "zoom": "Масштаб",
+      "checkUpdate": "Проверить обновления",
+      "lineEnding": "Концы строк",
+      "close": "Закрыть"
+    },
+    "edit": {
+      "undo": "Отменить",
+      "redo": "Повторить",
+      "cut": "Вырезать",
+      "copy": "Копировать",
+      "paste": "Вставить",
+      "copyAsRich": "Копировать как RTF",
+      "copyAsHtml": "Копировать как HTML",
+      "pasteAsPlaintext": "Вставить как текст",
+      "selectAll": "Выделить всё",
+      "duplicate": "Дублировать",
+      "createParagraph": "Создать абзац",
+      "deleteParagraph": "Удалить абзац",
+      "find": "Найти",
+      "findNext": "Найти далее",
+      "findPrevious": "Найти ранее",
+      "replace": "Заменить",
+      "findInFolder": "Искать в папке",
+      "screenshot": "Скриншот",
+      "mathBlock": "Математическая формула"
+    },
+    "paragraph": {
+      "heading1": "Заголовок 1",
+      "heading2": "Заголовок 2",
+      "heading3": "Заголовок 3",
+      "heading4": "Заголовок 4",
+      "heading5": "Заголовок 5",
+      "heading6": "Заголовок 6",
+      "upgradeHeading": "Повысить заголовок",
+      "degradeHeading": "Понизить заголовок",
+      "table": "Таблица",
+      "codeFence": "Блок кода",
+      "quoteBlock": "Цитата",
+      "mathFormula": "Математическая формула",
+      "htmlBlock": "HTML-блок",
+      "orderList": "Нумерованный список",
+      "bulletList": "Маркированный список",
+      "taskList": "Список задач",
+      "looseListItem": "Разрежённый элемент списка",
+      "paragraph": "Абзац",
+      "horizontalLine": "Горизонтальная черта",
+      "frontMatter": "Front Matter",
+      "resetParagraph": "Сбросить абзац",
+      "mathBlock": "Математическая формула",
+      "horizontalRule": "Горизонтальная черта"
+    },
+    "format": {
+      "strong": "Полужирный",
+      "emphasis": "Курсив",
+      "underline": "Подчёркнутый",
+      "superscript": "Надстрочный",
+      "subscript": "Подстрочный",
+      "highlight": "Выделение",
+      "inlineCode": "Код",
+      "inlineMath": "Формула",
+      "strike": "Зачёркнутый",
+      "hyperlink": "Гиперссылка",
+      "image": "Изображение",
+      "clearFormat": "Очистить формат"
+    },
+    "window": {
+      "minimize": "Свернуть",
+      "close": "Закрыть",
+      "toggleAlwaysOnTop": "Поверх всех окон",
+      "zoomIn": "Увеличить",
+      "zoomOut": "Уменьшить",
+      "toggleFullScreen": "Полный экран",
+      "changeTheme": "Сменить тему"
+    },
+    "view": {
+      "commandPalette": "Палитра команд",
+      "sourceCodeMode": "Режим исходного кода",
+      "typewriterMode": "Режим пишущей машинки",
+      "focusMode": "Режим фокусировки",
+      "toggleSourceCodeMode": "Вкл/выкл режим исходного кода",
+      "toggleTypewriterMode": "Вкл/выкл режим пишущей машинки",
+      "toggleFocusMode": "Вкл/выкл режим фокусировки",
+      "toggleSidebar": "Вкл/выкл боковую панель",
+      "toggleToc": "Вкл/выкл содержание",
+      "toggleTabbar": "Вкл/выкл панель вкладок",
+      "toggleDevTools": "Вкл/выкл инструменты разработчика",
+      "devReload": "Перезагрузить (разработка)",
+      "reloadImages": "Перезагрузить изображения",
+      "textDirection": "Направление текста",
+      "actualSize": "Реальный размер",
+      "zoomIn": "Увеличить",
+      "zoomOut": "Уменьшить",
+      "devToggleDeveloperTools": "Инструменты разработчика"
+    },
+    "tabs": {
+      "cycleForward": "Следующая вкладка",
+      "cycleBackward": "Предыдущая вкладка",
+      "switchToLeft": "Переключиться влево",
+      "switchToRight": "Переключиться вправо",
+      "switchToFirst": "Первая вкладка",
+      "switchToSecond": "Вторая вкладка",
+      "switchToThird": "Третья вкладка",
+      "switchToFourth": "Четвёртая вкладка",
+      "switchToFifth": "Пятая вкладка",
+      "switchToSixth": "Шестая вкладка",
+      "switchToSeventh": "Седьмая вкладка",
+      "switchToEighth": "Восьмая вкладка",
+      "switchToNinth": "Девятая вкладка",
+      "switchToTenth": "Десятая вкладка"
+    },
+    "docs": {
+      "userGuide": "Руководство пользователя",
+      "markdownSyntax": "Синтаксис Markdown"
+    },
+    "utils": {
+      "noUpdateResourceFile": "Файл обновлений не найден",
+      "todoUpdateCheck": "Проверить обновления"
+    },
+    "spellchecker": {
+      "switchLanguage": "Сменить язык"
+    }
+  },
+  "common": {
+    "cancel": "Отмена",
+    "ok": "OK"
+  },
+  "dialog": {
+    "cancel": "Отмена",
+    "changesWillBeLost": "Изменения будут потеряны",
+    "close": "Закрыть",
+    "dontSave": "Не сохранять",
+    "file": "Файл",
+    "fileExists": "Файл {filename} уже существует",
+    "files": "Файлы",
+    "importWarning": "Предупреждение об импорте",
+    "installPandoc": "Установить Pandoc",
+    "keepOpen": "Оставить открытым",
+    "replace": "Заменить",
+    "save": "Сохранить",
+    "saveChanges": "Сохранить изменения",
+    "saveFailure": "Ошибка сохранения"
+  },
+  "error": {
+    "configSchemaViolation": "Нарушение схемы конфигурации",
+    "copyError": "Ошибка копирования",
+    "initializationFailed": "Ошибка инициализации: {hint}",
+    "otherInstanceDetected": "Другой экземпляр MarkText уже запущен",
+    "report": "Сообщить",
+    "startupError": "Ошибка запуска",
+    "terminatedDueToError": "Завершено из-за ошибки",
+    "unexpectedErrorWithMessage": "Неожиданная ошибка: {message}",
+    "unexpectedMainProcess": "Неожиданная ошибка основного процесса",
+    "unexpectedRendererProcess": "Неожиданная ошибка рендерера"
+  },
+  "notifications": {
+    "defaultMessage": "Стандартное сообщение",
+    "defaultTitle": "Уведомление"
+  },
+  "store": {
+    "editor": {
+      "anchorLinkCopied": "Ссылка скопирована",
+      "tabNotFound": "Вкладка не найдена",
+      "tocItemNotFound": "Элемент содержания {key} не найден",
+      "highlightStart": "[highlight start]",
+      "highlightEnd": "[highlight end]",
+      "typeAtToInsert": "Введите / для вставки",
+      "inputFootnoteDefinition": "Введите определение сноски...",
+      "inputYamlFrontMatter": "Введите YAML Front Matter",
+      "inputLanguageIdentifier": "Введите идентификатор языка...",
+      "inputMathematicalFormula": "Введите математическую формулу...",
+      "fence": "fence",
+      "indent": "indent",
+      "frontMatterDelimiter": "---",
+      "mathDelimiter": "$$",
+      "mermaidStart": "``` mermaid",
+      "flowchartStart": "``` flowchart",
+      "sequenceStart": "``` sequence",
+      "plantumlStart": "``` plantuml",
+      "vegaLiteStart": "``` vega-lite",
+      "codeFence": "```",
+      "clickToAddImage": "Нажмите, чтобы добавить изображение",
+      "loadImageFailed": "Ошибка загрузки изображения",
+      "errorLoadingTabTitle": "Ошибка загрузки вкладки",
+      "errorLoadingTabMessage": "Произошла ошибка при загрузке файла — вкладка не найдена.",
+      "mixedLineEndingsNormalized": "\"{name}\" содержит смешанные концы строк, автоматически нормализованы до {lineEnding}.",
+      "imageDeletionUrlTitle": "URL удаления изображения",
+      "imageDeletionUrlMessage": "Нажмите, чтобы скопировать URL удаления загруженного изображения: {url}",
+      "errorWhileSaving": "Ошибка при сохранении: {msg}",
+      "exportSuccessTitle": "Экспорт выполнен",
+      "exportSuccessMessage": "\"{name}\" успешно экспортирован!",
+      "fileRemovedOnDisk": "\"{name}\" был удалён на диске.",
+      "fileChangedOnDisk": "\"{name}\" был изменён на диске. Перезагрузить?"
+    }
+  },
+  "spellchecker": {
+    "failedToRemoveWord": "Не удалось удалить слово из словаря",
+    "unexpectedError": "Неожиданная ошибка проверки орфографии"
+  },
+  "quickInsert": {
+    "basicBlock": "Базовые блоки",
+    "header": "Заголовок",
+    "advancedBlock": "Расширенные блоки",
+    "listBlock": "Списки",
+    "diagram": "Диаграмма",
+    "paragraph": {
+      "title": "Абзац",
+      "subtitle": "Текстовое содержимое"
+    },
+    "horizontalLine": {
+      "title": "Горизонтальная черта",
+      "subtitle": "---"
+    },
+    "frontMatter": {
+      "title": "Front Matter",
+      "subtitle": "--- YAML ---"
+    },
+    "header1": {
+      "title": "Заголовок 1",
+      "subtitle": "# Заголовок"
+    },
+    "header2": {
+      "title": "Заголовок 2",
+      "subtitle": "## Заголовок"
+    },
+    "header3": {
+      "title": "Заголовок 3",
+      "subtitle": "### Заголовок"
+    },
+    "header4": {
+      "title": "Заголовок 4",
+      "subtitle": "#### Заголовок"
+    },
+    "header5": {
+      "title": "Заголовок 5",
+      "subtitle": "##### Заголовок"
+    },
+    "header6": {
+      "title": "Заголовок 6",
+      "subtitle": "###### Заголовок"
+    },
+    "tableBlock": {
+      "title": "Таблица",
+      "subtitle": "\uFF5C Заголовок \uFF5C Заголовок \uFF5C"
+    },
+    "mathFormula": {
+      "title": "Формула",
+      "subtitle": "$$ Формула $$"
+    },
+    "htmlBlock": {
+      "title": "HTML-блок",
+      "subtitle": "<div> HTML </div>"
+    },
+    "codeBlock": {
+      "title": "Блок кода",
+      "subtitle": "``` Код ```"
+    },
+    "quoteBlock": {
+      "title": "Цитата",
+      "subtitle": "> Текст цитаты"
+    },
+    "orderedList": {
+      "title": "Нумерованный список",
+      "subtitle": "1. Элемент"
+    },
+    "bulletList": {
+      "title": "Маркированный список",
+      "subtitle": "- Элемент"
+    },
+    "todoList": {
+      "title": "Список задач",
+      "subtitle": "- [ ] Задача"
+    },
+    "vegaChart": {
+      "title": "Vega-Lite",
+      "subtitle": "Диаграмма визуализации данных"
+    },
+    "flowChart": {
+      "title": "Flowchart",
+      "subtitle": "Блок-схема"
+    },
+    "sequenceChart": {
+      "title": "Sequence",
+      "subtitle": "Диаграмма последовательности"
+    },
+    "plantUMLChart": {
+      "title": "PlantUML",
+      "subtitle": "UML-диаграмма"
+    },
+    "mermaid": {
+      "title": "Mermaid",
+      "subtitle": "Диаграмма Mermaid",
+      "gantt": {
+        "title": "Диаграмма Ганта"
+      },
+      "pie": {
+        "title": "Круговая диаграмма"
+      },
+      "flowchart": {
+        "title": "Блок-схема"
+      },
+      "sequence": {
+        "title": "Диаграмма последовательности"
+      },
+      "class": {
+        "title": "Диаграмма классов"
+      },
+      "state": {
+        "title": "Диаграмма состояний",
+        "subtitle": "stateDiagram"
+      },
+      "journey": {
+        "title": "Диаграмма путешествия"
+      },
+      "git": {
+        "title": "Git-граф"
+      },
+      "er": {
+        "title": "ER-диаграмма"
+      },
+      "requirement": {
+        "title": "Диаграмма требований"
+      }
+    },
+    "taskList": {
+      "title": "Список задач"
+    },
+    "vegaliteChart": {
+      "title": "Vega-Lite"
+    },
+    "plantUMLDiagram": {
+      "title": "PlantUML"
+    },
+    "mermaidDiagram": {
+      "title": "Mermaid"
+    }
+  },
+  "frontMenu": {
+    "duplicate": "Дублировать",
+    "turnInto": "Преобразовать",
+    "newParagraph": "Новый абзац",
+    "delete": "Удалить",
+    "paragraph": "Абзац",
+    "table": "Таблица",
+    "html": "HTML",
+    "mathblock": "Математическая формула",
+    "pre": "Блок кода",
+    "frontMatter": "Front Matter",
+    "ulTask": "Список задач",
+    "ulBullet": "Маркированный список",
+    "olOrder": "Нумерованный список",
+    "blockquote": "Цитата",
+    "heading1": "Заголовок 1",
+    "heading2": "Заголовок 2",
+    "heading3": "Заголовок 3",
+    "heading4": "Заголовок 4",
+    "heading5": "Заголовок 5",
+    "heading6": "Заголовок 6",
+    "hr": "Горизонтальная черта"
+  },
+  "editor": {
+    "words": {},
+    "image": {
+      "selector": {
+        "tab": {
+          "select": "Выбрать",
+          "embedLink": "Вставить ссылку"
+        },
+        "select": {
+          "chooseButton": "Выбрать изображение",
+          "tip": "Выберите изображение на вашем компьютере."
+        },
+        "inputs": {
+          "alt": "Alt-текст",
+          "src": "Ссылка или локальный путь",
+          "title": "Заголовок изображения"
+        },
+        "embedButton": "Вставить изображение",
+        "hint": {
+          "prefix": "Вставьте ссылку или локальный путь. Используйте",
+          "simple": "простой",
+          "full": "полный"
+        }
+      },
+      "toolbar": {
+        "edit": "Редактировать",
+        "inline": "Встроенное",
+        "alignLeft": "Выровнять влево",
+        "alignCenter": "Выровнять по центру",
+        "alignRight": "Выровнять вправо",
+        "delete": "Удалить"
+      }
+    },
+    "placeholders": {
+      "frontMatter": "Введите YAML Front Matter",
+      "languageIdentifier": "Введите идентификатор языка...",
+      "mathFormula": "Введите математическую формулу..."
+    },
+    "export": {
+      "error": "Ошибка экспорта",
+      "errorExporting": "Ошибка экспорта файла {type}",
+      "failed": "Экспорт {type} не удался"
+    },
+    "insertTable": {
+      "title": "Вставка таблицы",
+      "rows": "Строки",
+      "columns": "Столбцы"
+    },
+    "notifications": {
+      "notificationNotFound": "Уведомление не найдено"
+    },
+    "print": {
+      "error": "Ошибка печати \"{title}\"",
+      "failed": "Печать не удалась"
+    },
+    "sourceCode": {
+      "cursorNullComment": "Комментарий: курсор равен null",
+      "imageStructureDeletedComment": "Комментарий: структура изображения удалена"
+    },
+    "spellcheck": {
+      "disabledError": "Ошибка: проверка орфографии отключена",
+      "errorSwitchingLanguage": "Ошибка смены языка проверки {languageCode}",
+      "languageMissing": "Язык проверки отсутствует {languageCode}",
+      "switchError": "Ошибка смены языка {languageCode}: {error}",
+      "title": "Орфография",
+      "disabled": "Проверка орфографии отключена",
+      "enabled": "Проверка орфографии включена",
+      "enabledError": "Ошибка включения проверки орфографии"
+    },
+    "table": "table",
+    "resizeTable": "Изменить размер таблицы",
+    "left": "left",
+    "alignLeft": "Выровнять влево",
+    "center": "center",
+    "alignCenter": "Выровнять по центру",
+    "right": "right",
+    "alignRight": "Выровнять вправо",
+    "delete": "delete",
+    "deleteTable": "Удалить таблицу",
+    "insertRowAbove": "Вставить строку выше",
+    "insertRowBelow": "Вставить строку ниже",
+    "removeRow": "Удалить строку",
+    "insertColumnLeft": "Вставить столбец слева",
+    "insertColumnRight": "Вставить столбец справа",
+    "removeColumn": "Удалить столбец",
+    "copyContent": "Копировать содержимое",
+    "emptyMathFormula": "< Пустая математическая формула >",
+    "invalidMathFormula": "< Некорректная математическая формула >",
+    "emptyMermaidBlock": "< Пустой блок Mermaid >",
+    "loading": "Загрузка...",
+    "emptyDiagramBlock": "< Пустой блок диаграммы >",
+    "emptyHtmlBlock": "< Пустой HTML-блок >",
+    "onlyTopBlockCanRenderIcon": "Только верхний блок может отображать кнопку с иконкой.",
+    "unhandledFunctionType": "Необработанный тип функции: {functionType}",
+    "highlight-start": "[конец выделения]",
+    "highlight-end": "[конец выделения]",
+    "type-at-to-insert": "Введите / для вставки",
+    "input-footnote-definition": "Введите определение сноски",
+    "input-yaml-front-matter": "Введите YAML Front Matter",
+    "input-language-identifier": "Введите идентификатор языка",
+    "input-mathematical-formula": "Введите математическую формулу",
+    "fence": "fence",
+    "indent": "indent",
+    "front-matter-delimiter": "разделитель front matter",
+    "math-delimiter": "разделитель формулы",
+    "mermaid-start": "начало mermaid",
+    "flowchart-start": "начало flowchart",
+    "sequence-start": "начало sequence",
+    "plantuml-start": "начало plantuml",
+    "vega-lite-start": "начало vega-lite",
+    "click-to-add-image": "Нажмите, чтобы добавить изображение",
+    "load-image-failed": "Ошибка загрузки изображения"
+  }
+}
